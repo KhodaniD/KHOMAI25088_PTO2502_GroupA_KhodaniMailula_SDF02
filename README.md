@@ -1,4 +1,3 @@
-# KHOMAI25088_PTO2502_GroupA_KhodaniMailula_SDF02
 
 # [SDF02] Challenge: CS Cat HTML Portfolio 😼
 
